@@ -20,7 +20,7 @@
   <tr>
      <td align="center" width="96">
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="css3" width="40" height="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" alt="css3" width="40" height="40"/>
       </a>
     </td>
       <td align="center" width="96">
@@ -46,11 +46,6 @@
      <td align="center" width="96">
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
       </a>
     </td>
       <td align="center" width="96">
